@@ -1,1 +1,34 @@
-Passionate to learn Machine Learning and all it has to offer, I have uploaded all the simple yet informative beginner projects straight from Google Colab.
+I am passionate about learning Machine Learning and all it has to offer. I have uploaded all the simple yet informative beginner projects straight from Google Colab.
+Here are all the concepts that I have demonstrated: 
+1. Regression: 
+1.1 Simple Linear Regression
+1.2 Multiple Linear Regression 
+1.3 Polynomial Regression 
+1.4 Support Vector Regression (SVR) 
+1.5 Decision Tree Regression
+1.6 Random Forest Regresison
+
+2. Classification: 
+2.1 Logistic Regression 
+2.2 K-Nearest-Neighbor (KNN) 
+2.3 Support Vector Machine (SVM) 
+2.4 Kernel SVM
+2.5 Naive Bayes
+2.6 Decision Tree Classification 
+2.7 Random Forest Classification 
+
+3. Clustering: 
+3.1 K-Means Clustering 
+3.2 Hierarchical Clustering 
+
+4. Association Rule Learning:
+4.1 Apriori 
+4.2 Eclat 
+
+5. Reinforcement Learning:
+5.1 Upper Confidence Bound(UBC) 
+5.2 Thompson Sampling 
+
+6. Deep Learning:
+6.1 Artificial Neural Networks(ANN) 
+6.2 Convolutional Neural Networks(CNN) 
