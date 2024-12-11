@@ -35,3 +35,7 @@ Here are all the concepts that I have demonstrated:
 7. Dimensionality Reduction 
 7.1 Principal Component Analysis(PCA)
 7.2 Linear Discriminant Analysis(LDA)
+
+8. Model Selection 
+8.1 K-fold Cross Validation 
+8.2 Grid Search
